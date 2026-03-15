@@ -1,0 +1,10 @@
+/**
+ * Objective: write a function to return sum of all numbers in array
+ */
+
+function sumOfNumbers(){
+
+}
+
+const sum=sumOfNumbers();
+console.log(sum)

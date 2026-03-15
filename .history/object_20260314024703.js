@@ -1,0 +1,5 @@
+
+
+const computer = {
+    brand:
+}

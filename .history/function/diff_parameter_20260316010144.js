@@ -1,0 +1,3 @@
+/**
+ * for a given tring
+ */
