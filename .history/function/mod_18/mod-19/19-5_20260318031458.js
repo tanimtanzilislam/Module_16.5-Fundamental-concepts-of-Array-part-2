@@ -1,0 +1,1 @@
+Calculate the total cost of the products in a shopping cart

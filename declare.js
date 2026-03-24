@@ -8,3 +8,10 @@ const rubber = Object.create({})
 console.log(rubber)
 
 //js-Object-tasks
+
+
+
+
+function getMenu() {
+ console.log("Burger, Pizza, Pasta");
+}

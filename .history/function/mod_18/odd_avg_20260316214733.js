@@ -1,0 +1,4 @@
+/*
+function takes an array as parameter
+give 
+*/

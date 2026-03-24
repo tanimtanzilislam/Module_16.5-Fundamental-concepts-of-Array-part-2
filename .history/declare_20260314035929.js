@@ -1,1 +1,0 @@
-const pen ={ brand:'econo', price:10}

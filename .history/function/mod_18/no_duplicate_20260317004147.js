@@ -1,0 +1,3 @@
+/* 
+array has some duplicate elements
+*/

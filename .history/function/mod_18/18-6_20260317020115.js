@@ -1,0 +1,1 @@
+const min =Math.min;

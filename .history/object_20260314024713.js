@@ -1,5 +1,0 @@
-
-
-const computer = {
-    brand:'lenovo'
-}

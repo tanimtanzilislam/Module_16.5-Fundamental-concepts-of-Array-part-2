@@ -1,0 +1,22 @@
+
+const  student={
+    name:'Sakib khan',
+    id:121,
+    address:'movie cinema',
+    isSingle:true,
+    friends:['Apu','Raaz','Salman','Amir'],
+    movies:[{name:'no.1',year:2015},{name:'King Khan',year:2018}]
+    car:{
+        brand:'tesla',
+        price:5000000,
+        made:2025,
+        manufacturer:{
+  name:'tesla',
+  ceo:'Elon Mask',
+  country:'USA'
+        }
+     }
+
+}
+
+console.log(student.car.manufacturer)

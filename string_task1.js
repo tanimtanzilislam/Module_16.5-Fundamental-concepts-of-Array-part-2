@@ -14,4 +14,7 @@ for(const n of name){
 
 
 console.log('The count of a is ',count);
+
+
+
     
